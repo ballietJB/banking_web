@@ -156,8 +156,8 @@
 									<div class="well wbFeatureBox wbBackgroundBlue" style="padding: 0px 10px 13px 10px">
 										<div id="featureIcon" style="float: left;margin-top: 5px"><img src="themes/wealth_banking_theme/images/icons/icon-location.png" width="100px" height="100px"></div>
 										<div id="featureContent" style="margin-left: 110px">
-											<h3 class="text-left wbItemTitleNoIcon">Store Locations</h3>
-											<p class="text-centered">Let us help you find a Customer 1st Bank in your area or current location.</p>
+											<h3 class="text-left wbItemTitleNoIcon">Branch Locations</h3>
+											<p class="text-centered">Let us help you find a Customer 1st branch in your area or current location.</p>
 										</div>
 									</div>
 								</div>
@@ -185,6 +185,13 @@
 						   <div class="col-sm-11 col-sm-offset-1">
 							   <!-- ONE Connect optimisation targer -->
 							   <div id="TH_MyAccounts_FeatureBox3">
+									<div class="well wbFeatureBox wbBackgroundGrey" style="padding: 0px 10px 13px 10px">
+										<div id="featureIcon" style="float: left;margin-top: 5px"><img src="themes/wealth_banking_theme/images/icons/icon-question.png" width="100px" height="100px"></div>
+										<div id="featureContent" style="margin-left: 110px">
+											<h3 class="text-left wbItemTitleNoIcon">Frequent Questions</h3>
+											<p class="text-centered">We are here to help.  Explore information about the most frequently asked questions</p>
+										</div>
+									</div>
 							</div>
 						</div>
                 		<div class="row clearfix">
