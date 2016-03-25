@@ -179,12 +179,13 @@
                 		<div class="row clearfix">
 							<div class="col-sm-11 col-sm-offset-1">
 								<div id="TH_Invest_FeatureBox1">
-								<!-- ONE Connect optimisation targer -->
-									<div class="well wbFeatureBox wbBackgroundBlue">
-    									<h3 class="text-left wbItemTitleNoIcon">Contact Us</h3>
-										<p>&nbsp; &nbsp;• &nbsp; Access the online form<br></p>
+									<div class="well wbFeatureBox wbBackgroundBlue" style="padding: 0px 10px 0px 10px">
+										<div id="featureIcon" style="float: left;margin-top: 20px"><img src="themes/wealth_banking_theme/images/icons/icon-location.png" width="75px" height="75px"></div>
+										<div id="featureContent" style="margin-left: 90px">
+											<h3 class="text-left wbItemTitleNoIcon">Branch Locations</h3>
+											<p class="text-centered" style="margin-bottom: 0px">Let us help you find a Customer 1st branch in your area or current location.</p>
+										</div>
 									</div>
-									<!-- /ONE Connect -->
 								</div>
 							</div>
 						</div>
@@ -192,10 +193,12 @@
 							<div class="col-sm-11 col-sm-offset-1">
 								<!-- ONE Connect optimisation targer -->
 								<div id="TH_Invest_FeatureBox2">
-									<div class="well wbFeatureBox wbBackgroundBlack">
-                						<h3 class="text-left wbItemTitleNoIcon">Related Products</h3>
-										<p>&nbsp; &nbsp;• &nbsp; Tradition Funds<br>
-									&nbsp; &nbsp;• &nbsp; Structured Products<br></p>								
+									<div class="well wbFeatureBox wbBackgroundBlack" style="padding: 0px 10px 0px 10px">
+										<div id="featureIcon" style="float: left;margin-top: 20px"><img src="themes/wealth_banking_theme/images/icons/icon-phone.png" width="75px" height="75px"></div>
+										<div id="featureContent" style="margin-left: 90px">
+											<h3 class="text-left wbItemTitleNoIcon">Contact Us</h3>
+											<p class="text-centered" style="margin-bottom: 0px">Information needed to contact Customer 1st Bank on any channel in any part of the world</p>
+										</div>
 									</div>
 								</div>
 								<!-- /ONE Connect -->
@@ -210,12 +213,13 @@
 						   <div class="col-sm-11 col-sm-offset-1">
 							   <!-- ONE Connect optimisation targer -->
 							   <div id="TH_Invest_FeatureBox3">
-							   		<div class="well wbFeatureBox wbBackgroundGrey">
-                						<h3 class="text-left wbItemTitleNoIcon">Support</h3>
-										<p>&nbsp; &nbsp;• &nbsp; Rates and Fees<br>
-											&nbsp; &nbsp;• &nbsp; Online and telephone banking<br></p>
+									<div class="well wbFeatureBox wbBackgroundGrey" style="padding: 0px 10px 0px 10px">
+										<div id="featureIcon" style="float: left;margin-top: 20px"><img src="themes/wealth_banking_theme/images/icons/icon-question.png" width="75px" height="75px"></div>
+										<div id="featureContent" style="margin-left: 90px">
+											<h3 class="text-left wbItemTitleNoIcon">Frequent Questions</h3>
+											<p class="text-centered" style="margin-bottom: 0px">We are here to help.  Explore information about the most frequently asked questions</p>
 										</div>
-								<!-- /ONE Connect -->
+									</div>
 								</div>
 							</div>
 						</div>
@@ -223,9 +227,12 @@
 							<div class="col-sm-11 col-sm-offset-1">
 								<!-- ONE Connect optimisation targer -->
 								<div id="TH_Invest_FeatureBox4">
-									<div class="well wbFeatureBox wbBackgroundPurple">
-                						<h3 class="text-left wbItemTitleNoIcon">Investment Report</h3>
-										<p class="text-centered">Customer 1st, in partnership with Thunderhead Investments, examines the impact of customer engagement on portfolio performance.</p>
+									<div class="well wbFeatureBox wbBackgroundPurple" style="padding: 0px 10px 0px 10px">
+										<div id="featureIcon" style="float: left;margin-top: 20px"><img src="themes/wealth_banking_theme/images/icons/icon-report.png" width="75px" height="75px"></div>
+										<div id="featureContent" style="margin-left: 90px">
+											<h3 class="text-left wbItemTitleNoIcon">Financial Report</h3>
+											<p class="text-centered" style="margin-bottom: 0px">Review the latest financial statements from the Customer 1st Group</p>
+										</div>
 									</div>
 								<!-- /ONE Connect -->
 								</div>
