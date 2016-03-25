@@ -197,9 +197,12 @@
 							<div class="col-sm-11 col-sm-offset-1">
 								<!-- ONE Connect optimisation targer -->
 								<div id="TH_MyAccounts_FeatureBox4">
-									<div class="well wbFeatureBox wbBackgroundPurple">
-                						<h3 class="text-left wbItemTitleNoIcon">Investment Report</h3>
-										<p class="text-centered">Customer 1st, in partnership with Thunderhead Investments, examines the impact of customer engagement on portfolio performance.</p>
+									<div class="well wbFeatureBox wbBackgroundPurple" style="padding: 0px 10px 13px 10px">
+										<div id="featureIcon" style="float: left;margin-top: 20px"><img src="themes/wealth_banking_theme/images/icons/icon-report.png" width="100px" height="100px"></div>
+										<div id="featureContent" style="margin-left: 110px">
+											<h3 class="text-left wbItemTitleNoIcon">Investment Report</h3>
+											<p class="text-centered">Customer 1st, in partnership with Thunderhead Investments, examines the impact of customer engagement on portfolio performance.</p>
+										</div>
 									</div>
 								<!-- /ONE Connect -->
 								</div>
