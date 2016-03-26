@@ -20,12 +20,21 @@ include_once "analyticstracking.php";
 				<!-- Please maintain the class="col-md-12 column" setting for the TH-mainBanner-container div -->
 				<!-- Main picture is set in the CSS - via class custombanners, so you can either keep and overlay additional images or remove the class entry -->
 			<div class="row clearfix">
-				<div id="THmainBanner-container" class="col-sm-12 column">
-					<div id="THmainBanner-content" class="jumbotron custombanners">
-						<a href="#" class="ban1"><img class="wbBanImg1" src="themes/wealth_banking_theme/stories/banner1.png" alt=""></a>
-						<a href="#" class="ban2"><img class="wbBanImg2" src="themes/wealth_banking_theme/stories/banner2.png" alt=""></a>
+				<div id="THmainBanner-content" class="jumbotron custombanners">
+					<div id="largeBanner">
+						<div style="position: absolute; top:69px; right: 480px">
+						</div>
+						<div>
+							<a href="#" class="ban1">
+								<img class="wbBanImg1" src="themes/wealth_banking_theme/stories/banner1.png" alt="">
+							</a>
+						</div>
+					<div id="smallBanner">
+						<a href="#" class="ban2">
+							<img class="wbBanImg2" src="themes/wealth_banking_theme/stories/banner2.png" alt="">
+						</a>
 					</div>
-				</div>
+				</div>			
 			</div>
 			<!-- /ONE Connect -->
 			
