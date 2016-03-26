@@ -29,6 +29,7 @@ include_once "analyticstracking.php";
 								<img class="wbBanImg1" src="themes/wealth_banking_theme/stories/banner1.png" alt="">
 							</a>
 						</div>
+					</div>
 					<div id="smallBanner">
 						<a href="#" class="ban2">
 							<img class="wbBanImg2" src="themes/wealth_banking_theme/stories/banner2.png" alt="">
