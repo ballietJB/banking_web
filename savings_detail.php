@@ -154,7 +154,11 @@
 							<div class="col-sm-11 col-sm-offset-1">
 								<div id="TH_MyAccounts_FeatureBox1">
 									<div class="well wbFeatureBox wbBackgroundBlue" style="padding: 0px 10px 0px 10px">
-										<div id="featureIcon" style="float: left;margin-top: 20px"><img src="themes/wealth_banking_theme/images/icons/icon-location.png" width="75px" height="75px"></div>
+										<div id="featureIcon" style="float: left;margin-top: 20px">
+											<span title="Standard content">
+												<img src="themes/wealth_banking_theme/images/icons/icon-location.png" width="75px" height="75px">
+											</span>
+										</div>
 										<div id="featureContent" style="margin-left: 90px">
 											<h3 class="text-left wbItemTitleNoIcon">Branch Locations</h3>
 											<p class="text-centered" style="margin-bottom: 0px">Let us help you find a Customer 1st branch in your area or current location.</p>
