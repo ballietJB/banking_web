@@ -13,11 +13,8 @@
 				<div class="col-sm-12">
 					<div id="THsavingsPageBanner" class="wbJumbotronBanner wbInvestBanner">
 						<div class="row clearfix">
-							<div class="col-sm-2">
-                				<h1>Savings</h1>
-							</div>
 							<div class="col-sm-6">
-								<p>We have a range of savings accounts to meet your needs, whether you want instant access to your cash, a fixed rate or an account you can manage online..</p>
+                				<h1>Customer 1st PMA Package</h1>
 							</div>
 						</div>
             		</div>
@@ -27,33 +24,34 @@
 
 			<div class="row clearfix wbFirstRow">
 				<div class="col-sm-7">
-
-	
 					<div class="row clearfix">
 						<div class="col-sm-11 col-sm-offset-1">
-							
 								<div class="panel-group" id="accordion">
 									<!-- ONE Connect Optimisation Target - replace header and panel of product entry -->
 									<!-- Need to follow the Accordian structure -->
-									<div id="THsavingsProduct1" class="panel panel-default">
-										<div class="panel-heading wbApplyOnline">
+									<div id="THPMAPremierBenefits" class="panel panel-default">
+										<div class="panel-heading">
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
 												<div id="" class="well wbRemoveBox">
-													<h3 class="text-left wbItemTitleNoIcon">Regular Savings Account</h3>
-													<p>You’re just starting out and need a basic savings account.</p>
+													<h3 class="text-left wbItemTitleNoIcon">Premier Benefits</h3>
+													<p>Bonus interest rates, fee waivers, discounts on banking services, and more</p>
 												</div>
 											</a>
 										</div>
-										<div id="collapseOne" class="panel-collapse collapse">
+										<div id="collapseOne" class="panel-collapse in">
 											<div class="panel-body">
 												<div class="well wbRemoveBox">
-													<h4>Brief highlights</h4>
-													<ul>
-														<li><strong>Monthly Fee:</strong> <?php echo $currency_symbol;?>5</li>
-														<li><strong>Minimum Opening Deposit:</strong> <?php echo $currency_symbol;?>25</li>
-														<li><strong>Annual Percentage Yield(APY):</strong> 0.01%</li>
+													<h4>Highlights of premier benefits for all PMA customers</h4>
+													<ul style="padding-left: 30px">
+														<li><strong>Bonus interest rates</strong> on linked CDs and select FDIC-insured IRAs, and select linked savings accounts </li>
+														<li><strong>No monthly service fee</strong>  on additional select linked checking and savings accounts</li>
+														<li><strong>Interest rate discounts</strong> on select new loans and lines of credit</li>
+														<li><strong>Annual fee waiver</strong> on one eligible home equity line of credit</li>
+														<li><strong>Platinum Debit Card</strong> or linkage to your existing Debit Card</li>
+														<li><strong>Waived ATM access fee</strong> for two non-Customer 1st ATM cash withdrawals</li>
+														<li><strong>Special credit card benefits</strong> or your Customer 1st Visa ® credit card 7 such as special Purchase and Travel Protection Coverage</li>
 													</ul>
-													<h3><a href="contact_us.php?product=C1B-PBANK-SAVE-STN">Request Info</a></h3>
+													<strong>Annual relationship bonus</strong> on non-bonus reward points for Customer 1st 365 AMX Card and Customer 1st World AMX Card
 												</div>
 											</div>
 										</div>
@@ -62,85 +60,39 @@
 									
 									<!-- ONE Connect Optimisation Target - replace header and panel of product entry -->
 									<!-- Need to follow the Accordian structure -->
-									<div id="THsavingsProduct3" class="panel panel-default">
-										<div class="panel-heading wbApplyOnline">
-											<div id="" class="well wbRemoveBox">
-						                		<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-													<h3 class="text-left wbItemTitleNoIcon">High Yield Savings Account</h3>
-													<p>You want better rates for a minimum deposit of <?php echo $currency_symbol;?>5,000</p>
-												</a>
-											</div>
-										</div>
-										<div id="collapseThree" class="panel-collapse collapse">
-											<div class="panel-body">
-												<div class="well wbRemoveBox">
-													<h4>Brief highlights</h4>
-													<ul>
-														<li><strong>Monthly Fee:</strong> <?php echo $currency_symbol;?>50</li>
-														<li><strong>Minimum Opening Deposit:</strong> <?php echo $currency_symbol;?>5,000</li>
-														<li><strong>Annual Percentage Yield(APY):</strong> 0.05%</li>
-													</ul>
-													<h3><a href="contact_us.php?product=C1B-PBANK-SAVE-HY">Request Info</a></h3>
-												</div>
-											</div>
-										</div>
-									</div>
-									<!-- /ONE Connect -->
-
-									<!-- ONE Connect Optimisation Target - replace header and panel of product entry -->
-									<!-- Need to follow the Accordian structure -->
-									<div id="THsavingsProduct4" class="panel panel-default">
-										<div class="panel-heading wbApplyOnline">
-											<div id="" class="well wbRemoveBox">
-						                		<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-													<h3 class="text-left wbItemTitleNoIcon">Certificates of Deposits</h3>
-													<p>You pick the term and earn a fixed rate of return, even during uncertain times</p>
-												</a>
-											</div>
-										</div>
-										<div id="collapseFour" class="panel-collapse collapse">
-											<div class="panel-body">
-												<div class="well wbRemoveBox">
-													<h4>Brief highlights</h4>
-													<ul>
-														<li><strong>Term:</strong> from 3 Months to 1 Year</li>
-														<li><strong>Minimum Opening Deposit:</strong> from <?php echo $currency_symbol;?>2,500 to <?php echo $currency_symbol;?>100,000</li>
-														<li><strong>Annual Percentage Yield(APY):</strong> from 1.5% to 2.27%</li>
-													</ul>
-													<h3><a href="contact_us.php?product=C1B-PBANK-SAVE-CD">Request Info</a></h3>
-												</div>
-											</div>
-										</div>
-									</div>
-									<!-- /ONE Connect -->
-
-									<!-- ONE Connect Optimisation Target - replace header and panel of product entry -->
-									<!-- Need to follow the Accordian structure -->
-									<div id="THsavingsProduct2" class="panel panel-default">
+									<div id="THPMABrokerageBenefits" class="panel panel-default">
 										<div class="panel-heading wbApplyOnline">
 											<div id="" class="well wbRemoveBox">
 						                		<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-													<h3 class="text-left wbItemTitleNoIcon">Money Market Savings Account</h3>
-													<p>You want to earn more interest as your balance grows.</p>
+													<h3 class="text-left wbItemTitleNoIcon">Brokerage Benefits</h3>
+													<p>Get first class service for your investments</p>
 												</a>
 											</div>
 										</div>
 										<div id="collapseTwo" class="panel-collapse collapse">
 											<div class="panel-body">
 												<div class="well wbRemoveBox">
-													<h4>Brief highlights</h4>
-													<ul>
-														<li><strong>Monthly Fee:</strong> <?php echo $currency_symbol;?>NO FEE</li>
-														<li><strong>Minimum Opening Deposit:</strong> <?php echo $currency_symbol;?>25,000</li>
-														<li><strong>Annual Percentage Yield(APY):</strong> Market Rate</li>
+													<h4>Investment strategies designed to help meet your personal financial goals</h4>
+													<p>Customer 1st Advisors is the third largest full-service provider of brokerage services in the U.S., with more than 15,000 Financial Advisors nationwide.</p>
+													<h4><strong>Self-directed solution</strong></h4>
+													<p><strong>1stTrade:</strong> Get unlimited $4.95 online trades	when linked to the PMA Package as of July 1st of each year.</p>
+													<ul style="padding-left: 30px">
+														<li>Transfer money between banking and investment accounts easily.</li>
+														<li>Access a powerful collection of Customer 1st Advisor resources including the latest market commentary and economic outlooks.</li>
+														<li>Get 24/7 assistance by phone from our knowledgeable support team</li>
 													</ul>
-													<h3><a href="contact_us.php?product=C1B-PBANK-SAVE-MM">Request Info</a></h3>
+													<h4><strong>Full-service solution </strong></h4>
+													<p><strong>Work with an Advisor:</strong> No annual fee on linked qualifying full service brokerage account or IRA for customers with $250,000 or more in PMA relationship balances and linked to the PMA Package as of July 1st of each year.</p>
+													<ul style="padding-left: 30px">
+														<li>Get a plan that encompasses your entire financial picture, not just your investments with Advisory Services.</li>
+														<li>Tap into our Financial Advisors' experience and sophisticated planning tools to develop a unique financial strategy — one that prepares and guides you through retirement, not just to retirement.</li>
+													</ul>
 												</div>
 											</div>
 										</div>
 									</div>
-									<!-- /ONE Connect -->									
-									
+
+									<!-- /ONE Connect -->
 								</div>
 								
 						</div>
