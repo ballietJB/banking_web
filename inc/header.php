@@ -97,7 +97,7 @@
 	<head>
 		<?php
 		// JY insert $sk into script below
-		if ($_SESSION["ONE-DEMO"]==true) {?>
+		if (true) {?>
 			<script type='text/javascript'> (function() { var onetag = document.createElement('script'); onetag.id = 'thxTag'; onetag.type = 'text/javascript'; onetag.async = true; onetag.src = 'https://eu2.thunderhead.com/one/rt/js/one-tag.js?siteKey=<?php echo $sk;?>'; var firstScriptElement = document.getElementsByTagName('script')[0]; firstScriptElement.parentNode.insertBefore(onetag, firstScriptElement); })(); </script>
 		
 		<?php } ?>
